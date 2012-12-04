@@ -1,0 +1,85 @@
+Microsoft Developer Studio Workspace File, Format Version 5.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "siege"=.\Siege\siege.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/HexenWorld/Siege", WOFAAAAA
+    .\siege
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "hcode"=.\HCode\hcode.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/HexenWorld/HCode", WOFAAAAA
+    .\hcode
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "qwcl"=.\Client\qwcl.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/HexenWorld/Client", TDFAAAAA
+    .\client
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Project: "qwsv"=.\Server\qwsv.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+    begin source code control
+    "$/HexenWorld/Server", FJFAAAAA
+    .\server
+    end source code control
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+    begin source code control
+    "$/HexenWorld", SDFAAAAA
+    .
+    end source code control
+}}}
+
+Package=<3>
+{{{
+}}}
+
+###############################################################################
+

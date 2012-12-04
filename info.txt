@@ -1,0 +1,21 @@
+Hexen 2 Source Code Release Info
+--------------------------------
+
+The H2MP directory contains the source code for the Hexen2 Mission Pack.  The mission pack
+code contains within it the original Hexen2 code, bug fixes that were released for the patches,
+and the code changes necessary for the mission pack.  
+
+The H2W directory contains the Hexen2World source code.  While I have worked on further changes
+beyond what is included in this directory, they are not stable enough to be released.
+
+The source code was compiled last under Visual C++ V5.x, so there may be some changes necessary 
+in order to get it to work under VC6.x.  I included the original versions of the DirectX and 
+SciTech libraries that we used, you may be able to use later versions.
+
+This code is delivered AS IS, as Raven will not be providing any support.  Please refer to the Quake
+Standards Group web site, http://www.quakesrc.org, for future support / tutorials on this source 
+code release.
+
+--------------------------------
+Rick Johnson
+Lead Programmer, Hexen 2
